@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="400" viewBox="240 80 1120 400" role="img" aria-labelledby="reserv-title reserv-description">
+  <title id="reserv-title">RESRV — The Reserved Standard</title>
+  <desc id="reserv-description">Ivory RESRV wordmark with an uppercase gold italic The Reserved Standard trademark tagline below.</desc>
+  <g fill="#f9edd5">
+    <text x="800" y="326" text-anchor="middle" font-family="Montserrat, Gotham, Helvetica Neue, Arial, sans-serif" font-size="270" font-weight="700" letter-spacing="10">RESRV</text>
+  </g>
+  <text x="800" y="450" text-anchor="middle" fill="#d6b572" font-family="Montserrat, Gotham, Arial, sans-serif" font-size="60" font-style="italic" font-weight="700" letter-spacing="13">THE RESERVED STANDARD<tspan dx="4" dy="-29" font-size="22" letter-spacing="0">TM</tspan></text>
+</svg>
