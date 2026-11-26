@@ -1,8 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="400" viewBox="240 80 1120 400" role="img" aria-labelledby="reserv-title reserv-description">
-  <title id="reserv-title">RESRV — The Reserved Standard</title>
-  <desc id="reserv-description">Ivory RESRV wordmark with an uppercase gold italic The Reserved Standard trademark tagline below.</desc>
-  <g fill="#f9edd5">
-    <text x="800" y="326" text-anchor="middle" font-family="Montserrat, Gotham, Helvetica Neue, Arial, sans-serif" font-size="270" font-weight="700" letter-spacing="10">RESRV</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="309" viewBox="0 0 1140 309" role="img" aria-labelledby="resrv-title resrv-description">
+  <title id="resrv-title">RESRV — The Reserved Standard</title>
+  <desc id="resrv-description">Gold RESRV wordmark with a registered mark and The Reserved Standard tagline between two diamonds.</desc>
+  <defs>
+    <linearGradient id="resrv-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3d89b"/>
+      <stop offset="0.28" stop-color="#fff0c9"/>
+      <stop offset="0.58" stop-color="#d6aa57"/>
+      <stop offset="0.82" stop-color="#ffe8af"/>
+      <stop offset="1" stop-color="#c9953f"/>
+    </linearGradient>
+  </defs>
+  <text x="570" y="205" text-anchor="middle" fill="url(#resrv-gold)" font-family="Montserrat, Gotham, Helvetica Neue, Arial, sans-serif" font-size="220" font-weight="500" letter-spacing="52">RESRV</text>
+  <g transform="translate(1108 31)" fill="none" stroke="url(#resrv-gold)" stroke-width="3">
+    <circle r="18"/>
+    <text x="0" y="7" text-anchor="middle" fill="url(#resrv-gold)" stroke="none" font-family="Montserrat, Gotham, Arial, sans-serif" font-size="23" font-weight="700">R</text>
   </g>
-  <text x="800" y="450" text-anchor="middle" fill="#d6b572" font-family="Montserrat, Gotham, Arial, sans-serif" font-size="60" font-style="italic" font-weight="700" letter-spacing="13">THE RESERVED STANDARD<tspan dx="4" dy="-29" font-size="22" letter-spacing="0">TM</tspan></text>
+  <g fill="url(#resrv-gold)">
+    <path d="M94 266l11-11 11 11-11 11z"/>
+    <path d="M1024 266l11-11 11 11-11 11z"/>
+  </g>
+  <text x="570" y="280" text-anchor="middle" fill="url(#resrv-gold)" font-family="Montserrat, Gotham, Helvetica Neue, Arial, sans-serif" font-size="39" font-weight="500" letter-spacing="15">THE RESERVED STANDARD</text>
 </svg>
